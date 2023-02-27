@@ -21,3 +21,6 @@ pip install requests
 ```py
 pip install user_agent
 ```
+```py
+pip install colorama
+```
